@@ -1,5 +1,5 @@
 package com.example.inventoryservice.controller;
 
-public final class MainClass extends SealedClasstest {
+public non-sealed class MainClass extends SealedClasstest {
 
 }
