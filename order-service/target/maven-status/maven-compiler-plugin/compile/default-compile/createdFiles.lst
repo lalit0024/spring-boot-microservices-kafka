@@ -1,9 +1,12 @@
 com/example/orderservice/OrderServiceApplication.class
+com/example/orderservice/controller/DatabaseController.class
+com/example/orderservice/controller/RedisKeyValueRequest.class
+com/example/orderservice/service/OrderEventProducer.class
+com/example/orderservice/repository/OrderRepository.class
 com/example/orderservice/controller/RedisController.class
 com/example/orderservice/config/RedisConfig.class
 com/example/orderservice/controller/RedisTTLRequest.class
 com/example/orderservice/config/KafkaConfig.class
 com/example/orderservice/controller/OrderController.class
-com/example/orderservice/controller/RedisKeyValueRequest.class
-com/example/orderservice/service/OrderEventProducer.class
 com/example/orderservice/service/RedisService.class
+com/example/orderservice/entity/Order.class

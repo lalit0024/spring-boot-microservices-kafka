@@ -1,6 +1,7 @@
 /Users/lalit/coding-workspace/spring-boot-microservices-kafka/inventory-service/src/main/java/com/example/inventoryservice/InventoryServiceApplication.java
 /Users/lalit/coding-workspace/spring-boot-microservices-kafka/inventory-service/src/main/java/com/example/inventoryservice/config/KafkaConfig.java
 /Users/lalit/coding-workspace/spring-boot-microservices-kafka/inventory-service/src/main/java/com/example/inventoryservice/config/RedisConfig.java
+/Users/lalit/coding-workspace/spring-boot-microservices-kafka/inventory-service/src/main/java/com/example/inventoryservice/controller/DatabaseController.java
 /Users/lalit/coding-workspace/spring-boot-microservices-kafka/inventory-service/src/main/java/com/example/inventoryservice/controller/InventoryController.java
 /Users/lalit/coding-workspace/spring-boot-microservices-kafka/inventory-service/src/main/java/com/example/inventoryservice/controller/MainClass.java
 /Users/lalit/coding-workspace/spring-boot-microservices-kafka/inventory-service/src/main/java/com/example/inventoryservice/controller/MyLambda.java
@@ -9,5 +10,7 @@
 /Users/lalit/coding-workspace/spring-boot-microservices-kafka/inventory-service/src/main/java/com/example/inventoryservice/controller/RedisTTLRequest.java
 /Users/lalit/coding-workspace/spring-boot-microservices-kafka/inventory-service/src/main/java/com/example/inventoryservice/controller/SealedClasstest.java
 /Users/lalit/coding-workspace/spring-boot-microservices-kafka/inventory-service/src/main/java/com/example/inventoryservice/controller/TestLamba.java
+/Users/lalit/coding-workspace/spring-boot-microservices-kafka/inventory-service/src/main/java/com/example/inventoryservice/entity/Inventory.java
+/Users/lalit/coding-workspace/spring-boot-microservices-kafka/inventory-service/src/main/java/com/example/inventoryservice/repository/InventoryRepository.java
 /Users/lalit/coding-workspace/spring-boot-microservices-kafka/inventory-service/src/main/java/com/example/inventoryservice/service/InventoryEventService.java
 /Users/lalit/coding-workspace/spring-boot-microservices-kafka/inventory-service/src/main/java/com/example/inventoryservice/service/RedisService.java

@@ -1,3 +1,4 @@
+com/example/inventoryservice/entity/Inventory.class
 com/example/inventoryservice/controller/MainClass.class
 com/example/inventoryservice/controller/RedisTTLRequest.class
 com/example/inventoryservice/controller/RedisController.class
@@ -7,7 +8,9 @@ com/example/inventoryservice/controller/SealedClasstest.class
 com/example/inventoryservice/service/InventoryEventService.class
 com/example/inventoryservice/controller/MyLambda.class
 com/example/inventoryservice/controller/InventoryController.class
+com/example/inventoryservice/repository/InventoryRepository.class
 com/example/inventoryservice/controller/TestLamba.class
 com/example/inventoryservice/config/KafkaConfig.class
+com/example/inventoryservice/controller/DatabaseController.class
 com/example/inventoryservice/service/RedisService.class
 com/example/inventoryservice/config/RedisConfig.class
