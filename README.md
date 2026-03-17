@@ -34,7 +34,7 @@ curl -X POST http://localhost:8081/orders \
   -d "order-1001:iphone"
 ```
 
-2. Check what `inventory-service` consumed:
+2. Check what  `inventory-service` consumed:
 
 ```bash
 curl http://localhost:8082/inventory/orders
