@@ -2,3 +2,14 @@
 .vscode
 .*/target
 .*classes
+.*.DS_Store
+.*.idea
+.*.iml
+.*.log
+.*.jar
+.*.war
+.*.ear
+.*.zip
+.*.tar.gz
+.*.rar
+.*.class
