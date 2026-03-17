@@ -37,9 +37,9 @@ services:
     image: postgres:15-alpine
     container_name: postgres
     environment:
-      POSTGRES_USER: ${DB_USERNAME:postgres}
-      POSTGRES_PASSWORD: ${DB_PASSWORD:postgres}
-      POSTGRES_DB: ${DB_NAME:microservices_db}
+      POSTGRES_USER: ${DB_USERNAME:-postgres}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-postgres}
+      POSTGRES_DB: ${DB_NAME:-microservices_db}
     ports:
       - "5432:5432"
     volumes:
